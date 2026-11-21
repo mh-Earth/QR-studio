@@ -1,22 +1,7 @@
-"""
-QR Studio  -  Modern QR Code Generator (PySide6)
+'''
+Made using claude code
 
-Install:
-    pip install PySide6 qrcode
-
-Run:
-    python qr_generator_v2.py
-
-Features
-    * Content types: Text/URL, Wi-Fi, Email, Phone
-    * Size, quiet zone, module shape (square / rounded / dots / diamond),
-      roundness, module spacing, corner radius, error correction
-    * Solid or gradient foreground, custom eye color, transparent background, presets
-    * Caption text above or below the QR (font, size, bold/italic, align, color, spacing)
-    * Center logo (auto-uses high error correction)
-    * Save PNG / JPG / SVG, copy to clipboard
-    * Themes: Light, Midnight, Jellyfish (animated)
-"""
+'''
 
 import math
 import os
